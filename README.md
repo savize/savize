@@ -1,6 +1,6 @@
 # Hi, I'm Saba 👋🏼👩🏻‍💻
 
-I'm new in programming and currently I'm learning python.
+I'm new in programming and currently I'm learning C++ and #C.
 My interest in VR and AI technology led me to step in the world of programming beside architecture.
 I'm always trying to grow and learn something new, helping to make this world a little better through design and code.
 
