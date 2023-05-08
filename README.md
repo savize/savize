@@ -1,5 +1,6 @@
-# Hi, I'm Saba 👋🏼👩🏻‍💻
+# Hi, This is Saba 👋🏼👩🏻‍💻
 
+I'm a junior Software Developer.
 My interest in VR and AI technology led me to step in the world of programming beside architecture.
 I'm always trying to grow and learn something new, helping to make this world a little better through design and code.
 
