@@ -10,12 +10,7 @@ I'm always trying to grow and learn something new, helping to make this world a 
 <a href="https://s.zhddesign@gmail.com/"><img src="https://i.ibb.co/drZdwXv/gm.png" alt="gm" border="0"></a>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/savize)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zahediehsaba/)  
-
-<!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=farbodfld)](https://github.com/ryo-ma/github-profile-trophy)
--->
+![savize's Stats](https://github-readme-stats.vercel.app/api?username=savize&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=farbodfld&show_icons=true&theme=radical) 
 
