@@ -14,5 +14,5 @@ I'm always trying to grow and learn something new, helping to make this world a 
 
 ![savize's Streak](https://github-readme-streak-stats.herokuapp.com/?user=savize&theme=dark&hide_border=true)
 
-
+![savize's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=savize&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
