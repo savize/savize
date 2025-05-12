@@ -1,13 +1,14 @@
-# Hi, This is Saba 👋🏼👩🏻‍💻
+# 👋🏼 Hi, This is Saba
 
-I'm a creative Software Developer.
-My interest in VR and AI technology led me to step in the world of programming beside architecture.
+I'm a Software Developer, curious builder and problem-solver with a passion for clean code, clever design, and meaningful collaboration.
 I'm always trying to grow and learn something new, helping to make this world a little better through design and code.
 
-## Get in touch 🌎
+🌐 Socials
 
-<a href="https://www.linkedin.com/in/sabazahedieh/"><img src="https://i.ibb.co/ggn8ggt/linkedin.png" alt="linkedin" border="0"></a>
-<a href="https://s.zhddesign@gmail.com/"><img src="https://i.ibb.co/drZdwXv/gm.png" alt="gm" border="0"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabazahedieh/)
+[![LinkedIn](https://img.shields.io/badge/Website-purple)](https://zhdh.co.uk/)
+
+💻 Tech Stack
 
 
 ![savize's Stats](https://github-readme-stats.vercel.app/api?username=savize&theme=dark&show_icons=true&hide_border=true&count_private=true)
